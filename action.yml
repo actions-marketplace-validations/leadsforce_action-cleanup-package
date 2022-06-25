@@ -1,5 +1,5 @@
 
-name: 'Delete ghcr.io package tag'
+name: 'Delete github container package with tag'
 description: 'Delete a tagged package from ghcr.io'
 inputs:
   package-name:
